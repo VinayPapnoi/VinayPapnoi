@@ -208,7 +208,7 @@ Every project above started from a real constraint — spotty rural networks, re
 
 ### 📅 Activity Graph
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=VinayPapnoi&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity)
+![Contribution Activity](./profile/activity-graph.svg)
 
 ---
 

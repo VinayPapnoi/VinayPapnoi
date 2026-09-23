@@ -31,6 +31,14 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: VinayPapnoi
+          options: bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
