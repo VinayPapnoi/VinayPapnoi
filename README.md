@@ -62,7 +62,6 @@ I'm a **Flutter App Developer** studying Computer Science (AI & ML) in India, fo
 🌱 Currently
 ├─ Learning system design
 ├─ Exploring native modules
-└─ Building AyuSync (SIH 2026)
 ```
 
 </td>
@@ -216,7 +215,7 @@ Every project above started from a real constraint — spotty rural networks, re
 
 <div align="center">
 
-I'm always open to conversations about Flutter, offline-first architecture, or Smart India Hackathon builds. Reach out on [LinkedIn](https://www.linkedin.com/in/vinay-papnoi-7871991b4/) or drop a line at [papnoi.vinay@gmail.com](mailto:papnoi.vinay@gmail.com).
+I'm always open to conversations about Flutter, app development, and technology. Reach out on [LinkedIn](https://www.linkedin.com/in/vinay-papnoi-7871991b4/) or drop a line at [papnoi.vinay@gmail.com](mailto:papnoi.vinay@gmail.com).
 
 *"Hot reload fixed it, I have no idea why, and I've made peace with that."*
 
