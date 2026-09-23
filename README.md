@@ -61,7 +61,7 @@ I'm a **Flutter App Developer** studying Computer Science (AI & ML) in India, fo
 
 🌱 Currently
 ├─ Learning system design
-├─ Exploring native modules
+└─ Exploring native modules
 ```
 
 </td>
